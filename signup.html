@@ -1,0 +1,121 @@
+<html>
+    <head> 
+<title>Sign In Form</title>
+<link rel="stylesheet" href="style.css">
+<style>
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+  /* The image used */
+  background-image: url("sgnup2.jpg");
+  
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+  
+  /* Full height */
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.7); /* Black w/opacity/see-through */
+  color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 30%;
+  padding: 20px;
+  text-align: left;
+}
+
+abbr{
+color: Red;
+font-size: 0.7rem;
+}
+
+</style>
+</head>
+        <body>  
+    <form action="user.php" method="post">
+<div class="bg-image"></div>
+
+<div class="bg-text">
+        <div class="description">
+            <p style="font-size: 1.5rem "><b>Sign-up now to book your flight with us!</b></p>
+        </div>
+<br>
+<div class="input">
+    <div>
+<br>
+        <label for="first-name">FIRST NAME <abbr title="required">*</abbr></label>
+        <input type="text" style="opacity:0.7" name="first-name" id="first-name" placeholder="enter first name" >
+        <span></span>
+    </div>
+<br>
+    <div>
+        <label for="last-name">LAST NAME <abbr title="required">*</abbr></label>
+        <input type="text" style="opacity:0.7" name="last-name" id="last-name" placeholder="enter last name" >
+        <span></span>
+    </div>
+<br>    
+<div>
+        <label for="email">EMAIL <abbr title="required">*</abbr></label>
+        <input type="email" style="opacity:0.7" name="email" id="email" >
+        <span></span>
+    </div>    
+<br>
+<div>
+        <label for="phone-number">PHONE NUMBER <abbr title="required">*</abbr></label>
+        <input type="tel" style="opacity:0.7" name="phone-number" id="phone-number" placeholder="0X-XXXX-XXXX" >
+        <span></span>
+    </div>
+<br>    
+<div>
+    <label for="username">USERNAME <abbr title="required">*</abbr></label>
+    <input type="text" style="opacity:0.7" name="username" id="username" placeholder="enter username" pattern="[a-zA-Z]*" required>
+    <span></span>
+</div>
+<br> 
+<div>
+        <label for="password">PASSWORD <abbr title="required">*</abbr></label>
+        <input type="password" style="opacity:0.7" name="password" id="password" placeholder="*********" >
+        <span></span>
+    </div>
+<br>    
+<div>
+        <label for="confirm-password">CONFIRM PASSWORD <abbr title="required" >*</abbr></label>
+        <input type="password" style="opacity:0.7" name="confirm-password" id="confirm-password" placeholder="*********"
+            required>
+        <span></span>
+    </div>
+</div>
+ <br>
+<br>
+<div class="account">
+    <input class="btn" type="submit" name="submit" value="Create account">
+    <br>
+<br>
+<br>
+<br>
+<div class="log-in">
+        <p>Already have an account? <a href="login.php" class="btn">Sign in</a></p>
+    </div>
+</div>
+</div>
+</form>
+</div>
+</body>
+
+</html>

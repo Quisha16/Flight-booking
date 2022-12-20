@@ -1,0 +1,12 @@
+header{
+    top:0; right:0; left:0;
+    background: #030419;
+    display:flex;
+    padding:1.5rem 4%;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: rgb(227, 236, 241);
+    border-bottom-right-radius : 0.4rem;
+    border-bottom-left-radius : 0.4rem;
+    z-index: 4;
+}
