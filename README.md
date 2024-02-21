@@ -1,5 +1,8 @@
 ## Flight Booking System
-Welcome to the Flight Booking System, a web application designed to simplify the process of booking flights for users. Built using PHP, MySQL, and XAMPP, this project offers a range of features to provide a smooth booking experience.
+This project is a simple web application designed to make it easy for users to book flights online. 
+Built using PHP, MySQL, and XAMPP, it's a perfect starting point for beginners interested in learning web development.
+The Flight Booking System offers basic features like user signup, login, flight search, and ticket booking. It's a great opportunity to explore how websites work behind the scenes and get hands-on experience with common web development tools and technologies.
+
 
 ## Features
 ### User Authentication
