@@ -27,5 +27,31 @@ Database: MySQL (XAMPP)
 Server Environment: XAMPP (Apache, MySQL, PHP)
 Frontend: HTML, CSS, JavaScript
 
-## Demo Video 
-[![Flight Booking System Demo]](https://youtu.be/6erzjshukdQ)
+## Screenshots
+
+![Screenshot 2024-01-23 191356](https://github.com/Quisha16/Flight-booking/assets/90545228/ac578e96-7501-49c7-b897-e0877cf74be3)  
+
+![Screenshot 2024-01-23 191313](https://github.com/Quisha16/Flight-booking/assets/90545228/900ada46-ad19-443a-a7da-439ee8952242)
+
+![Screenshot 2024-01-23 191440](https://github.com/Quisha16/Flight-booking/assets/90545228/1c23e0a2-378a-4e62-a6db-0f6dfd229f50)
+
+![Screenshot 2024-01-23 191622](https://github.com/Quisha16/Flight-booking/assets/90545228/4f01c5b8-f234-40f8-b4ce-da9e5b33df3f)
+
+![Screenshot 2024-01-23 191705](https://github.com/Quisha16/Flight-booking/assets/90545228/2ff4928d-68fd-4827-94cc-566ef11a4f00)
+
+![Screenshot 2024-01-23 191837](https://github.com/Quisha16/Flight-booking/assets/90545228/44d5c8b8-9a43-46aa-841c-240f743c03e0)
+
+![Screenshot 2024-01-23 191950](https://github.com/Quisha16/Flight-booking/assets/90545228/45e663f6-cf63-4409-87f4-b89595925324)
+
+![Screenshot 2024-01-23 192034](https://github.com/Quisha16/Flight-booking/assets/90545228/3686fe9e-ec65-4ce0-a25f-349067e4dbf6)
+
+![Screenshot 2024-01-23 192113](https://github.com/Quisha16/Flight-booking/assets/90545228/c2658dc4-6c9a-4a46-a37b-dfbd73f051c6)
+
+![Screenshot 2024-01-23 192209](https://github.com/Quisha16/Flight-booking/assets/90545228/6addd554-5e4b-4aec-9313-0b803f1f56bc)
+
+
+
+
+
+
+
